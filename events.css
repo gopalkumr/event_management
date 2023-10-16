@@ -1,0 +1,30 @@
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.b3{
+    border: none;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    background: greenyellow;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ab{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+body{
+        background:url(home.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+}
+

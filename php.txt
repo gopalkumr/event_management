@@ -1,0 +1,14 @@
+<?php
+session_start();
+include("db.php");
+
+
+if($_SERVER['REQUEST_METHOD']=="POST")
+{
+    $Register Number = $_POST['register'];
+    $password = $_POST['password'];
+
+    if(!empty($register))
+
+}
+?>
